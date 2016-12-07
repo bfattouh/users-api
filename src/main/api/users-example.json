@@ -1,0 +1,16 @@
+[{
+    "id": 1,
+    "name": "Bouchaib Fattouh",
+    "username": "testuser",
+    "email": "fattouh@prolearn.com",      
+    "address": {
+          "street": "Kevin Street",
+          "suite": "Apt. 556",
+          "city": "Montreal", 
+          "zipcode": "H3E2E5",
+          "state": "QC",
+          "country": "CA"
+     },
+     "phone": "1-514-736-8031 x56442",
+     "website": "prolearn.com"
+}]
